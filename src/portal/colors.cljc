@@ -141,4 +141,21 @@
     ::package     "#ffffff"
     ::exception   "#a3be8c"
     ::diff-add    "#b8bb26"
-    ::diff-remove "#fb4934"}})
+    ::diff-remove "#fb4934"}
+   ::tokyonight
+   {::text        "#a9b1d6"
+   ::background   "#1a1b26"
+   ::background2  "#24283b"
+   ::boolean      "#7dcfff"
+   ::string       "#9ece6a"
+   ::keyword      "#bb9af7"
+   ::namespace    "#ffb563"
+   ::tag          "#73daca"
+   ::symbol       "#7aa2f7"
+   ::number       "#f7768e"
+   ::uri          "#b4f9f8"
+   ::border       "#565f89"
+   ::package      "#ff9e64"
+   ::exception    "#f7768e"
+   ::diff-add     "#485e30"
+   ::diff-remove  "#8c4351"}})
